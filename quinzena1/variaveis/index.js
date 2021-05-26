@@ -81,11 +81,11 @@ console.log("O novo valor de b é", b)
 let a 
 let b 
 let c 
-
+*/
 
 a = Number (prompt("Digite um numero para a")) // 25
 b = Number (prompt("Digite um numero para b")) // 10
-
+/*
 c =a  //- c=25
 a=b  // - a=10
 b=a //- b=25
